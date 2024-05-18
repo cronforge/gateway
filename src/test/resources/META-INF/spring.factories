@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = tostu.config.\
+    SqlTestContainersSpringContextCustomizerFactory,tostu.config.\
+    TestContainersSpringContextCustomizerFactory,tostu.config.\
+    KafkaTestContainersSpringContextCustomizerFactory
